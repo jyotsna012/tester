@@ -10,7 +10,7 @@ int main(){
   
 }
 
-char* test(){
+char test(){
 
   cout << "enter a num" << endl;
   char array[80];
