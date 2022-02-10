@@ -2,7 +2,7 @@
 #include <iostream>
 
 using namespace std;
-char* test();
+char test();
 
 int main(){
   
