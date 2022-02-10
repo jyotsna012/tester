@@ -6,8 +6,14 @@ char* test();
 
 int main(){
   
-  cout << test() << endl;
-  
+
+   
+       char c1 ='0';
+       char c2 ='4';
+       char c3[3] = {c1,c2,0}; // 0 at the end to terminate the string
+       cout<< c3 << endl;
+       return 0;
+   
 }
 
 char* test(){
